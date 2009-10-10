@@ -4,30 +4,24 @@ This package was debianized by:
 
 It was downloaded from:
 
-    <url://example.com>
+    https://launchpad.net/pyg3t
 
 Upstream Author(s):
 
-    <put author's name and email here>
-    <likewise for another author>
+    Ask Hjorth Larsen <asklarsen@gmail.com>
+    Kenneth Nielsen <k.nielsen81@gmail.com>
 
 Copyright:
 
-    <Copyright (C) YYYY Firtname Lastname>
-    <likewise for another author>
+    Copyright (C) 2009 Ask Hjorth Larsen
+    Copyright (C) 2009 Kenneth Nielsen
 
 License:
 
-### SELECT: ###
     This package is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
-    the Free Software Foundation; either version 2 of the License, or
+    the Free Software Foundation; either version 3 of the License, or
     (at your option) any later version.
-### OR ###
-   This package is free software; you can redistribute it and/or modify
-   it under the terms of the GNU General Public License version 2 as
-   published by the Free Software Foundation.
-##########
 
     This package is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
@@ -46,7 +40,3 @@ The Debian packaging is:
     Copyright C) 2009, Ask Hjorth Larsen <asklarsen@gmail.com>
 
 and is licensed under the GPL, see above.
-
-
-# Please also look if there are files or directories which have a
-# different copyright/license attached and list them here.
